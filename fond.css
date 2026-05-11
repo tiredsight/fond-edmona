@@ -1,0 +1,26 @@
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.wallap{
+    border-radius: 4px;
+    border-color: rgb(0, 0, 0);
+    border-style: ridge;
+    display: inline-block;
+    padding: 5px;
+}
+.style{
+    border-radius: 50px;
+    border-color: rgb(255, 0, 0);
+    border-style:groove;
+    display: inline-block;
+    padding: 10px ;
+}
+.pay{
+    border-radius: 60px;
+    border-color: rgb(9, 255, 0);
+    border-style: outset;
+    display: inline-block;
+    padding: 8px ;
+}
